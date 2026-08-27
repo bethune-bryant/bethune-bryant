@@ -1,6 +1,6 @@
 > "Computers were made to automate tedious and error-prone tasks. Programming computers is a tedious and error-prone task. Why not just get a computer to do it?"
 >
-> **Dr. Robert Kirby**
+> [**Dr. Robert Kirby**](https://sites.baylor.edu/robert_kirby/)
 
 That question still frames how I think about programming language design, automatic programming, and performance software, from graduate research through my work at AMD.
 
