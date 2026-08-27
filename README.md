@@ -1,14 +1,28 @@
-<h1 align="center">Hi 👋, I'm Bryant Nelson, Ph.D.</h1>
-<h3 align="center">A principal software engineer at AMD</h3>
+> "Computers were made to automate tedious and error-prone tasks. Programming computers is a tedious and error-prone task. Why not just get a computer to do it?"
+>
+> **Dr. Robert Kirby**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bryant-nelson-15311a85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryant-nelson-15311a85" height="30" width="40" /></a>
-</p>
+That question still frames how I think about programming language design, automatic programming, and performance software, from graduate research through my work at AMD.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethune-bryant&show_icons=true&locale=en&layout=compact" alt="bethune-bryant" /></p>
+### Hi 👋
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bethune-bryant&show_icons=true&locale=en" alt="bethune-bryant" /></p>
+I'm **Bryant Nelson, Ph.D.**, a **Principal Software Engineer, Technical Lead & Manager at AMD**. As technical lead and engineering manager for **GEMM Solution Selection** in **AMD Math Libraries** on the [**ROCm**](https://github.com/ROCm/rocm-libraries) stack ([**hipBLASLt**](https://github.com/ROCm/rocm-libraries/tree/develop/projects/hipblaslt) / [**rocBLAS**](https://github.com/ROCm/rocm-libraries/tree/develop/projects/rocblas)), I lead the team that chooses the right GEMM kernel for a given problem shape: the layer between user GEMM calls and the underlying kernel libraries. Our team owns and leads [**Origami**](https://github.com/ROCm/rocm-libraries/tree/develop/shared/origami), an analytical GEMM kernel-selection model that predicts near-optimal configurations from architectural parameters without runtime autotuning.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethune-bryant&" alt="bethune-bryant" /></p>
+I earned my Ph.D. in Computer Science from **Texas Tech University**, focused on **programming language design** and **automatic programming**, and that mindset still shapes how I turn complex hardware into reliable, fast software. At **IBM** and now at **AMD**, I productize ideas from research into software that ships.
 
+#### Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bethune-bryant/)
+
+#### GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bethune-bryant&show_icons=true&locale=en)
+
+#### Featured projects
+
+Side projects I maintain for fun and utility:
+
+| Project | Description |
+| --- | --- |
+| [**board-game-chooser**](https://github.com/bethune-bryant/board-game-chooser) | Program to randomly choose a board game from my collection. |
+| [**internet-troubleshooter**](https://github.com/bethune-bryant/internet-troubleshooter) | Python script for troubleshooting internet issues. |
