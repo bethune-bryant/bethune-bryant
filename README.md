@@ -14,10 +14,6 @@ I earned my Ph.D. in Computer Science from **Texas Tech University**, focused on
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bethune-bryant/)
 
-#### GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bethune-bryant&show_icons=true&locale=en)
-
 #### Featured projects
 
 Side projects I maintain for fun and utility:
